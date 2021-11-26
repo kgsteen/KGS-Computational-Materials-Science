@@ -65,4 +65,4 @@ My research interests lie in the field of computational materials science.  Usin
 
 My modelling expertise spans a variety of code bases and many levels of theory: first-principles (DFT), the highest-level ab initio methods (wavefunction-based post-Hartree Fock), and classical (force field) simulations.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
