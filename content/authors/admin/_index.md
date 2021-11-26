@@ -69,6 +69,6 @@ highlight_name: true
 
 My research interests lie in the field of computational materials science.  Using sophisticated computational models that bridge physics and physical chemistry, we are able to understand and tune material properties as well as propose new materials for technological applications. I have a particular interest in materials with application to renewable energy, battery and medical sensing/diagnostic technologies. Although I typically focus on nanoscale materials (e.g., small metallic clusters, quantum dots, carbon nanotubes), I also have a strong interest in surfaces and 2D materials.
 
-My modelling expertise spans a variety of code bases and many levels of theory: first-principles (DFT), the highest-level ab initio methods (wavefunction-based post-Hartree Fock), and classical (force field) simulations. I have extensive C/C++ and python experience, and an easy familiarity with Fortan 90, IDL, and Matlab.
+My modelling expertise spans a variety of code bases and many levels of theory: first-principles (DFT), the highest-level ab initio methods (wavefunction-based post-Hartree Fock), and classical (force field) simulations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
