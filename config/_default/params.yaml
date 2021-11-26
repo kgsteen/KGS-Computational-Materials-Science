@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
+theme: robot
+day_night: false
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: Krista.Steenbergen@vuw.ac.nz
+phone: +64 4 463 6926
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  office: LB 505, Laby Building
+  street: Gate 7 Kelburn Pde
+  city: Wellington
+  postcode: '6022'
+  country: New Zealand
+  country_code: NZL
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
