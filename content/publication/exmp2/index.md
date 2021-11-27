@@ -6,15 +6,14 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# # Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2021-11-27"
+doi: "10.1038/s41565-020-00835-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,16 +22,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Nature Nanotechnolgy
+publication_short: Nature Nanotech.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: It is well-understood that during the liquid-to-solid phase transition of alloys, elements segregate in the bulk phase with the formation of microstructures. In contrast, we show here that in a Bi–Ga alloy system, highly ordered nanopatterns emerge preferentially at the alloy surfaces during solidification. We observed a variety of transition, hybrid and crystal-defect-like patterns, in addition to lamellar and rod-like structures. Combining experiments and molecular dynamics simulations, we investigated the influence of the superficial Bi and Ga2O3 layers during surface solidification and elucidated the pattern-formation mechanisms, which involve surface-catalysed heterogeneous nucleation. We further demonstrated the dynamic nature and robustness of the phenomenon under different solidification conditions and for various alloy systems. The surface patterns we observed enable high-spatial-resolution nanoscale-infrared and surface-enhanced Raman mapping, which reveal promising potential for surface- and nanoscale-based applications.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -44,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.nature.com/articles/s41565-020-00835-7.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: Stephanie Lambie'
   focal_point: ""
   preview_only: false
 
