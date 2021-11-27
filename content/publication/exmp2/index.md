@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Unique surface patterns emerging during solidification of liquid metal alloys"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
